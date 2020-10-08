@@ -10,7 +10,20 @@ Here are the documentations for both APIs used in this assignment:
 - Pageviews API: [Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
 
 ## File Directory
-* [csv](csv): This folder contains the final processed data of the merged datasets on page view counts obtained from the two APIs. 
+* [csv](csv): This folder contains the final processed data of the merged datasets on page view counts obtained from the two APIs. It contains the following information of the traffic:
+| Column | Value | 
+| ------ | ------ |
+| year | YYYY | 
+| month | MM | 
+|pagecount_all_views| Total number of page views from the Legacy API|
+|pagecount_desktop_views | Number of page views from desktop users of Legacy API|
+|pagecount_mobile_views	| Number of page page views from mobile users of Legacy API|
+|pageview_all_views| Total number of page views from the Pageviews API|
+|pageview_desktop_views| Number of page views from desktop users of the Pageviews API|
+|pageview_mobile_views| Number of page views from mobile users of the Pageviews API|
+
 * [json](json): In this folder, I collect data for all months where data is available and then save the raw results into 5 separate JSON source data files.
 * [jupyter notebook](data_512_a1.ipynb): This jupyter notebook shows all the work and analysis in the end. 
 * [graph](en-wikipedia_traffic_200712-202008-fig): This is the time series graph of the analysis of the pageview traffic for each APIs and their types.
+
+
