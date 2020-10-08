@@ -11,6 +11,7 @@ Here are the documentations for both APIs used in this assignment:
 
 ## File Directory
 * [csv](csv): This folder contains the final processed data of the merged datasets on page view counts obtained from the two APIs. It contains the following information of the traffic:
+
 | Column | Value | 
 | ------ | ------ |
 | year | YYYY | 
