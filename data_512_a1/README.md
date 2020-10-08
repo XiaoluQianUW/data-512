@@ -30,7 +30,7 @@ Here are the documentations for both APIs used in this assignment:
 ## Visualization
 Here I visualize the traffic metrics from the two APIs as a time series graph:
 
-![Page Views on English Wikipedia (x 1,000,000)](/en-wikipedia_traffic_200801-202008.png)
+![Page Views on English Wikipedia (x 1,000,000)](/en-wikipedia_traffic_200712-202008.png)
 
 
 
