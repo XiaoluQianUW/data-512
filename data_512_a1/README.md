@@ -32,5 +32,5 @@ Here I visualize the traffic metrics from the two APIs as a time series graph:
 
 ![Page Views on English Wikipedia (x 1,000,000)](en-wikipedia_traffic_200712-202008-fig.png)
 
-
+Because of the change of the metrics, we see a drop in total pageviews using the Pageview API. Since 2018, we also see the amount of pageviews assicoated with mobile users (blue solid line) exceeds the amount of pageviews with destop users (green solid line)
 
