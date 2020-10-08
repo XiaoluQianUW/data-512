@@ -32,5 +32,9 @@ Here I visualize the traffic metrics from the two APIs as a time series graph:
 
 ![Page Views on English Wikipedia (x 1,000,000)](en-wikipedia_traffic_200712-202008-fig.png)
 
-Because of the change of the metrics, we see a drop in total pageviews using the Pageview API. Since 2018, we also see the amount of pageviews assicoated with mobile users (blue solid line) exceeds the amount of pageviews with destop users (green solid line)
+Because of the change of the metrics, we see a drop in total pageviews using the Pageview API since July 2015. Since 2018, we also see the amount of pageviews assicoated with mobile users (blue solid line) exceeds the amount of pageviews with destop users (green solid line)
+
+## License
+The license for my code is under [MIT LICENSE](LICENSE). 
+The term of the use of the Wikimedia REST APIs data is [here](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions).
 
