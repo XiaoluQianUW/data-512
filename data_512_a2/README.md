@@ -1,8 +1,10 @@
 # data-512-a2: Bias in the Data
 
-In this assignment, I performed two analysis using datasets for toxicity as well as aggression. 
+In this assignment, I performed two analysis using datasets for toxicity as well as aggression. In the first analysis, I compared the demographic information about the crowflower workers who labeled the toxicity data and aggression data with the demographic information of the general population I obtained from the United Nation's data. Workers who labeled for toxicity data and aggression data shows the same skewed demographic information. The demographic profile of the crowdflower workers do not match that of the general population well at all. We see that there are twice as much male crowdflower workers than females. We also see that there are a lot more younger people over 18-year-old among workers than the proportion of this age group in the general population. Such bias in the demographic data of the workers is very obvious.
 
-The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2020. The work process and analysis can be found in this well-documented [jupyter notebook](data_512_a2.ipynb).
+In the seconnd analysis, I tried to answer the question : Are female-identified labelers more or less likely to label comments as aggressive than male-identified labelers? Under the assumption that workers are randomly selected to do the annotations for toxicity data and the aggression data, we see that suprising, female-identified labelers are equally likely to label comments as aggressive than male-identified labelers. Based on the results of the conditional probability we have,female-identified labelers are equally likely to label comments as aggressive than male-identified labelers. Thus gender disproportion does not contribute to the bias in the data. We do not need to worry about that. However, I believe the age-group, ecucation level as well as language demographic profile of workers would make a difference. If more time is granted, furthur analysis on the age-group should be done.
+
+The work process and analysis can be found in this well-documented [jupyter notebook](data_512_a2.ipynb).
 
 ## Data Source
 
