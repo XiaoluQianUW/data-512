@@ -1,0 +1,2 @@
+# data-512
+The goal of this project is to investigate China's urban wage premium with a special focus on its provincial capitals. My goal is to determine if there exist urban/provincial capital agglomeration effects in China that contribute to the wage premium accounting for the cost of living and the unobservable ability bias of workers. I also want to see the wage gap between male and female in the urban, rural setting if time is allowed. 
